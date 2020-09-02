@@ -1,24 +1,26 @@
 # Data Cleaning Project  
 
 This is a project about data cleaning, and the data is from [kaggle](https://www.kaggle.com/lava18/google-play-store-apps).    
-This dataset include missing value, complex formats need Fixing up, and standardizing categories...etc.  
+This dataset include missing value, complex formats need fixing up, and standardizing categories...etc.  
 
 ## Finding 
 
 Total 13 variables:
 1. App = application name, class:character.  
-2. Category = category, class:character.  
+2. Category = category the app belongs to, class:character.  
 3. Rating = app rating from 1 to 5, class:number.  
 4. Reviews = number of reviews, class:number. 
-5. Size = app size, class:character.  
+5. Size = size of the app, class:character.  
 6. Installs = number of installations, class:character.  
-7. Type = free app or cost app, class:character.   
-8. Price = app price, class:character.  
+7. Type = free app or paid app, class:character.   
+8. Price = price of the app, class:character.  
 9. Content Rating = content classification by age, class:character.   
 10. Genres =  genres, class:character.   
 11. Last Updated = app last updated date, class:character.   
 12. Current Ver = current version, class:character.    
 13. Android Ver = android version, class:character.   
+
+<span style="background-color: #00A89C">The major problem is about data type that we need to deal with it.</span>
 
 ## Data summary
 
