@@ -53,7 +53,8 @@ According to the chart above:
 ## Next step   
 
 
+
 ## Code
-Please see [code.r]() for completely code details.  
+Please see [code.r](https://github.com/ct627/data_cleaning_project/blob/master/code.R) for completely code details.  
 
 
