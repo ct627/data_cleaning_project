@@ -39,7 +39,7 @@ Last Updated : this is also a character class which should be a data type.
   Installs : delete '+' and comma.
   Last Updated : change to data type.
 2. Some variables may include too many unique values which are not easy to analyze.
-  <img width="400" alt="unique" src="https://user-images.githubusercontent.com/67095395/91935894-8dbcb380-eca3-11ea-95be-dd4d008ca09e.jpeg">
+  <img width="500" alt="unique" src="https://user-images.githubusercontent.com/67095395/91935894-8dbcb380-eca3-11ea-95be-dd4d008ca09e.jpeg">
 3. Missing value only occurs in rating, my opinion is to simply just drop it or subsets it as a test dataset for test the prediction model.
 
 ## Result  
