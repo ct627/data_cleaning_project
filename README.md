@@ -23,8 +23,8 @@ Total 13 variables:
 ## Data summary
 
 This dataset include all unique value character and cannot be use 
-<img width="1044" alt="summary" src="">
-<img width="1044" alt="summary" src="">
+<img width="1044" alt="summary" src="https://user-images.githubusercontent.com/67095395/91931804-4c270b00-ec99-11ea-87f8-9f018ce1e7ad.png">
+<img width="1044" alt="head" src="https://user-images.githubusercontent.com/67095395/91931865-7e386d00-ec99-11ea-82c4-6aa039d6c4e2.png">
 
 ## Problem
 
@@ -36,8 +36,8 @@ This dataset include all unique value character and cannot be use
 
 ## Result  
 
-<img width="1044" alt="summary" src="">
-<img width="1044" alt="summary" src="">
+<img width="1044" alt="result1" src="">
+<img width="1044" alt="result2" src="">
 
 ## Output  
 
