@@ -2,6 +2,7 @@
 
 This is a project about data cleaning, and the data is from [kaggle](https://www.kaggle.com/lava18/google-play-store-apps).    
 This dataset include missing value, complex formats need fixing up, and standardizing categories...etc.  
+This repository using RStudio (Version 1.2.5019).
 
 ## Finding 
 
