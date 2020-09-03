@@ -50,9 +50,6 @@ According to the chart above:
 
 <img width="1044" alt="result1" src="https://user-images.githubusercontent.com/67095395/91941329-ea24d080-ecad-11ea-89d7-e19db37ed241.png">
 
-## Next step   
-
-
 
 ## Code
 Please see [code.r](https://github.com/ct627/data_cleaning_project/blob/master/code.R) for completely code details.  
