@@ -37,14 +37,14 @@ According to the chart above:
 
 ## Ideas
 
-<img width="550" alt="unique" src="https://user-images.githubusercontent.com/67095395/91935894-8dbcb380-eca3-11ea-95be-dd4d008ca09e.jpeg">
-1. Most character data need to convert to number.   
-  Size : change size variable from 14M to 14000000 and 79K to 79000.     
-  Installs : it has 19 levels from 1+ to 500,000,000+ installations without any sequence.   
-  Last Updated : change to data type.  
-  Content Rating : has 6 levels but without any order.
-2. Some variables may include too many unique values which are not easy to analyze.  
-3. Missing value only occurs in rating, my opinion is to simply just drop it or subsets it as a test dataset for test the prediction model.
+<img width="550" alt="unique" src="https://user-images.githubusercontent.com/67095395/91935894-8dbcb380-eca3-11ea-95be-dd4d008ca09e.jpeg">   
+1. Most character data need to convert to number.     
+  Size : change size variable from 14M to 1400000 and 79K to 79000.       
+  Installs : it has 19 levels from 1+ to 500,000,000+ installations without any sequence.     
+  Last Updated : change to data type.      
+  Content Rating : has 6 levels but without any order.    
+2. Some variables may include too many unique values which are not easy to analyze.    
+3. Missing value only occurs in rating, my opinion is to simply just drop it or subsets it as a test dataset for test the prediction model.    
 
 ## Result  
 
